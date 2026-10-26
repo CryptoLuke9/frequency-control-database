@@ -2,7 +2,7 @@
 
 ## The Human Apparatus
 
-A bold, browser-based case archive exploring experiments, influence, and the contested edges of control.
+A free Bub Club project: a bold, browser-based case archive exploring experiments, influence, and the contested edges of control.
 
 **[Open the live archive →](https://frequency-control-case-database.bubba-4041.chatgpt.site)**
 
@@ -56,3 +56,9 @@ The case reader separates the reported mechanism, the supplied official account,
 For case corrections, include sources that directly support the proposed change, distinguish evidence from interpretation, and preserve uncertainty where the record is incomplete. The `D` array in `index.html` contains the case records; summary counts are calculated from those records.
 
 For interface changes, preserve keyboard access, responsive layouts, safe text rendering, and browser-local notes. Never add credentials or private notes to the source or shared URLs.
+
+## Support through Bub Club
+
+Frequency & Control remains free and open access. [Discuss sponsorship with Bub Club](https://headless-xcouzkworss-lucasmclaughlin93-1411.wix-site-host.com/contact.html?interest=frequency-control-sponsor). This opens the project-specific contact page; it does not collect a payment or start a subscription.
+
+Share the live archive using its **Copy archive link** button. Individual case links remain available in each case reader.
